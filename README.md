@@ -48,3 +48,6 @@ ngrok.com ran a pay-what-you-want hosted service of 1.x from early 2013 until Ap
 
 ## Developing on ngrok
 [ngrok developer's guide](docs/DEVELOPMENT.md)
+
+## How config message length?
+- src/ngrok/msg/conn.go lines 19
